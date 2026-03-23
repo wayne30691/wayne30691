@@ -1,1 +1,95 @@
 # Wei Ming Wang
+
+Digital Transformation / Data Product / Control Tower Builder
+
+I build digital workflows, dashboards, and decision-support tools that turn fragmented operational processes into scalable, data-driven systems.
+
+My background combines finance planning, cost and inventory analytics, process re-engineering, and cross-functional project delivery. I focus on connecting business requirements with practical digital solutions using Python, Power BI, SQL-style logic, Streamlit, Snowflake, and structured data workflows.
+
+---
+
+## What I Do
+
+- Re-engineer manual operational workflows into scalable digital processes
+- Translate business pain points into system requirements, dashboards, and automation solutions
+- Build control towers for commercial, supply chain, inventory, forecast, and performance visibility
+- Connect Excel / CRM / reporting / planning data into unified decision-support workflows
+- Support cross-functional alignment across business, operations, planning, finance, and data teams
+- Improve data transparency, issue detection, and reporting efficiency through digital tools
+
+---
+
+## Selected Projects
+
+### Yushan Hub
+A centralized BI hub integrating sales, inventory, governance, and reporting workflows into a structured control tower.
+
+**Highlights**
+- Consolidated fragmented reporting into a one-stop decision-support platform
+- Improved visibility of operational and commercial KPIs through Power BI dashboards
+- Strengthened data governance, access structure, and reporting consistency
+- Supported business users with structured dashboard rollout and adoption
+
+**Tech**
+Python · Power BI · Snowflake · Salesforce · Excel
+
+---
+
+### T2 WS Transformation
+A Python-based transformation workflow that standardizes trade and reporting data for downstream analysis and monitoring.
+
+**Highlights**
+- Replaced manual processing with a repeatable and scalable workflow
+- Improved data consistency across source files and reporting logic
+- Reduced operational dependency on ad hoc Excel handling
+- Enabled faster issue tracing and business review preparation
+
+**Tech**
+Python · Salesforce · Excel · Streamlit
+
+---
+
+### WS Forecast Tracker
+A forecasting and publish-comparison application for monitoring changes across reporting versions.
+
+**Highlights**
+- Built a user-facing tool to compare publishes and identify changes quickly
+- Increased transparency in monthly forecast review and exception tracking
+- Demonstrated migration from legacy R Shiny logic to Python/Streamlit architecture
+
+**Tech**
+Python · Streamlit
+
+---
+
+## Tools & Technologies
+
+**Analytics / BI**  
+Power BI, Excel, dashboard design, KPI tracking, reporting automation
+
+**Programming / Data**  
+Python, Pandas, Streamlit, SQL-style transformation logic, ETL thinking
+
+**Platforms / Systems**  
+Snowflake, Salesforce, structured Excel-based workflows, business reporting environments
+
+**Ways of Working**  
+Requirement gathering, process mapping, stakeholder communication, documentation, rollout support, user enablement
+
+---
+
+## What I’m Interested In
+
+I am especially interested in roles related to:
+
+- Lead digital transformation projects for all topics
+- Operations / manufacturing analytics
+- Control tower and KPI systems
+- Cross-functional system integration
+- Data-driven process improvement
+
+---
+
+## Contact
+
+- LinkedIn: [Wei Meing Wang](https://www.linkedin.com/in/weiming-wang-0868b1162/)
