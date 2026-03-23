@@ -48,6 +48,15 @@ Python · Streamlit
 
 ---
 
+### [Distributor Segmentation Framework](https://github.com/wayne30691/distribution-segmentation-framework)
+A data-driven framework for distributor assessment and segmentation to support strategic decision-making and incentive allocation.
+
+- Designed a structured scoring model integrating performance, capability, and qualitative criteria  
+- Standardized evaluation across distributors to improve transparency and consistency  
+- Built a four-quadrant matrix to support segmentation and strategic prioritization  
+
+---
+
 ## Tools & Technologies
 
 **Analytics / BI**  
