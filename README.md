@@ -35,6 +35,19 @@ Python · Power BI · Snowflake · Salesforce · Excel
 
 ---
 
+### WS Forecast Tracker
+A forecasting and publish-comparison application for monitoring changes across reporting versions.
+
+**Highlights**
+- Built a user-facing tool to compare publishes and identify changes quickly
+- Increased transparency in monthly forecast review and exception tracking
+- Demonstrated migration from legacy R Shiny logic to Python/Streamlit architecture
+
+**Tech**
+Python · Streamlit
+
+---
+
 ### T2 WS Transformation
 A Python-based transformation workflow that standardizes trade and reporting data for downstream analysis and monitoring.
 
@@ -46,19 +59,6 @@ A Python-based transformation workflow that standardizes trade and reporting dat
 
 **Tech**
 Python · Salesforce · Excel · Streamlit
-
----
-
-### WS Forecast Tracker
-A forecasting and publish-comparison application for monitoring changes across reporting versions.
-
-**Highlights**
-- Built a user-facing tool to compare publishes and identify changes quickly
-- Increased transparency in monthly forecast review and exception tracking
-- Demonstrated migration from legacy R Shiny logic to Python/Streamlit architecture
-
-**Tech**
-Python · Streamlit
 
 ---
 
