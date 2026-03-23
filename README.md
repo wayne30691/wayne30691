@@ -35,7 +35,7 @@ Python · Power BI · Snowflake · Salesforce · Excel
 
 ---
 
-### [Sales Forecast Tracker](https://github.com/wayne30691/WS-Forecast-Tracker-Demo)
+### [Sales Forecast Tracker (live demo)](https://github.com/wayne30691/WS-Forecast-Tracker-Demo)
 A forecasting and publish-comparison application for monitoring changes across reporting versions.
 
 **Highlights**
