@@ -4,13 +4,13 @@ Digital Transformation / Data Product / Control Tower Builder
 
 I build digital workflows, dashboards, and decision-support tools that turn fragmented operational processes into scalable, data-driven systems.
 
-My background combines finance planning, cost and inventory analytics, process re-engineering, and cross-functional project delivery. I focus on connecting business requirements with practical digital solutions using Python, Power BI, SQL-style logic, Streamlit, Snowflake, and structured data workflows.
+My background combines process re-engineering, cross-functional project delivery, financial planning, cost and inventory analytics. I focus on connecting business requirements with practical digital solutions using Python, Power BI, SQL-style logic, Streamlit, Snowflake, and structured data workflows.
 
 ---
 
 ## What I Do
 
-- Re-engineer manual operational workflows into scalable digital processes
+- Re-engineer manual operational and commercial workflows into scalable digital processes
 - Translate business pain points into system requirements, dashboards, and automation solutions
 - Build control towers for commercial, supply chain, inventory, forecast, and performance visibility
 - Connect Excel / CRM / reporting / planning data into unified decision-support workflows
