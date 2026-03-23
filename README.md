@@ -55,6 +55,9 @@ A data-driven framework for distributor assessment and segmentation to support s
 - Standardized evaluation across distributors to improve transparency and consistency  
 - Built a four-quadrant matrix to support segmentation and strategic prioritization  
 
+**Tech**
+Python · Excel
+
 ---
 
 ## Tools & Technologies
