@@ -78,4 +78,4 @@ I am especially interested in roles related to:
 
 ## Contact
 
-- LinkedIn: [Wei Meing Wang](https://www.linkedin.com/in/weiming-wang-0868b1162/)
+- LinkedIn: [Wei Ming Wang](https://www.linkedin.com/in/weiming-wang-0868b1162/)
