@@ -21,7 +21,7 @@ My background combines process re-engineering, cross-functional project delivery
 
 ## Selected Projects
 
-### Yushan Hub
+### [Yushan Hub](https://github.com/wayne30691/Yushan-Hub)
 A centralized BI hub integrating sales, inventory, governance, and reporting workflows into a structured control tower.
 
 **Highlights**
@@ -68,7 +68,7 @@ Python · Streamlit
 Power BI, Excel, dashboard design, KPI tracking, reporting automation
 
 **Programming / Data**  
-Python, Pandas, Streamlit, SQL-style transformation logic, ETL thinking
+Python, Streamlit, SQL-style transformation logic, ETL thinking
 
 **Platforms / Systems**  
 Snowflake, Salesforce, structured Excel-based workflows, business reporting environments
