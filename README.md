@@ -48,20 +48,6 @@ Python · Streamlit
 
 ---
 
-### T2 WS Transformation
-A Python-based transformation workflow that standardizes trade and reporting data for downstream analysis and monitoring.
-
-**Highlights**
-- Replaced manual processing with a repeatable and scalable workflow
-- Improved data consistency across source files and reporting logic
-- Reduced operational dependency on ad hoc Excel handling
-- Enabled faster issue tracing and business review preparation
-
-**Tech**
-Python · Salesforce · Excel · Streamlit
-
----
-
 ## Tools & Technologies
 
 **Analytics / BI**  
