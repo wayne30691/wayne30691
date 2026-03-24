@@ -8,15 +8,6 @@ My background combines process re-engineering, cross-functional project delivery
 
 ---
 
-## What I Do
-
-- Turn manual workflows into scalable digital processes
-- Translate business needs into systems, dashboards, and automation
-- Build control towers for end-to-end visibility (commercial, supply chain, inventory, forecast)
-- Drive cross-functional alignment across business, operations, finance, and data teams
-
----
-
 ## Selected Projects
 
 ### [Yushan Hub](https://github.com/wayne30691/Yushan-Hub)
@@ -55,6 +46,15 @@ A data-driven framework for distributor assessment and segmentation to support s
 
 **Tech**
 Python · Excel
+
+---
+
+## What I Do
+
+- Turn manual workflows into scalable digital processes
+- Translate business needs into systems, dashboards, and automation
+- Build control towers for end-to-end visibility (commercial, supply chain, inventory, forecast)
+- Drive cross-functional alignment across business, operations, finance, and data teams
 
 ---
 
