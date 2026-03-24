@@ -22,7 +22,7 @@ My background combines process re-engineering, cross-functional project delivery
 ## Selected Projects
 
 ### [Yushan Hub](https://github.com/wayne30691/Yushan-Hub)
-A centralized BI hub integrating sales, inventory, governance, and reporting workflows into a structured control tower.
+A centralized BI hub integrating sales, inventory, shipment, governance, and reporting workflows into a structured control tower.
 
 **Highlights**
 - Consolidated fragmented reporting into a one-stop decision-support platform
