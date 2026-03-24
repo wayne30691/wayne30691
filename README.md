@@ -10,12 +10,10 @@ My background combines process re-engineering, cross-functional project delivery
 
 ## What I Do
 
-- Re-engineer manual operational and commercial workflows into scalable digital processes
-- Translate business pain points into system requirements, dashboards, and automation solutions
-- Build control towers for commercial, supply chain, inventory, forecast, and performance visibility
-- Connect Excel / CRM / reporting / planning data into unified decision-support workflows
-- Support cross-functional alignment across business, operations, planning, finance, and data teams
-- Improve data transparency, issue detection, and reporting efficiency through digital tools
+- Turn manual workflows into scalable digital processes
+- Translate business needs into systems, dashboards, and automation
+- Build control towers for end-to-end visibility (commercial, supply chain, inventory, forecast)
+- Drive cross-functional alignment across business, operations, finance, and data teams
 
 ---
 
