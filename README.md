@@ -51,7 +51,7 @@ Python · Excel
 
 ## Personal Project
 
-### [futures.app](https://github.com/wayne30691/futures_app)
+### [Futures Volatility Strategy](https://github.com/wayne30691/futures_app)
 
 A personal trading research project focused on intraday futures volatility analysis and rule-based execution.
 
