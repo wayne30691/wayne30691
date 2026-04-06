@@ -49,6 +49,25 @@ Python · Excel
 
 ---
 
+## Personal Project
+
+### [futures.app](https://github.com/wayne30691/futures.app)
+
+A personal trading research project focused on intraday futures volatility analysis and rule-based execution.
+
+Highlights
+
+- Intraday volatility segmentation
+- Identification of low-volatility time windows based on recent observations
+- TP/SL calibration using volatility as a reference
+- Basic statistical analysis and visualization for volatility patterns
+- Designed for next-day trade planning and risk control
+
+**Tech**  
+Python · HTML
+
+---
+
 ## What I Do
 
 - Turn manual workflows into scalable digital processes
